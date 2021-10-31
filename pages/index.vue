@@ -1,6 +1,6 @@
 <template>
   <div>
-  	<stranica/>
+  	<pocetna/>
   </div>
 </template>
 
