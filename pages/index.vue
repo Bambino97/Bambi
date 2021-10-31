@@ -1,5 +1,7 @@
 <template>
-  <Tutorial/>
+  <div>
+  	<stranica/>
+  </div>
 </template>
 
 <script>
